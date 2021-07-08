@@ -26,8 +26,8 @@
 </div>
 
 
-<div>
-  <img src="https://cdn.techotakusea.com/footer.webp" width="100%"/>
+<div align="center">
+  <img src="https://cdn.techotakusea.com/footer.webp" width="77%"/>
 </div>
 
 </body>
